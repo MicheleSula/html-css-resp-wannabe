@@ -173,3 +173,10 @@ img {
     
     
  }
+
+/* Between 769px and 1160px */
+@media screen and (max-width:1160px) and (min-width:769px) {
+    .container {
+        width: 100%;
+    } 
+}
